@@ -1,20 +1,19 @@
 {
-<<<<<<< HEAD
   "name": "gulp-imgs-base64",
-  "version": "0.1.1",
-  "description": "A plugin for encoding pages img  to base64",
+  "version": "1.0.0",
+  "description": "A plugin for encoding page img to base64",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-   "keywords": [
+  "keywords": [
    "gulp",
    "img",
    "base64"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fantasy525/gulp-imgs-base64"
+    "url": "git+https://github.com/fantasy525/gulp-imgs-base64.git"
   },
   "author": "fantasy525",
   "license": "MIT",
@@ -22,74 +21,4 @@
     "url": "https://github.com/fantasy525/gulp-imgs-base64/issues"
   },
   "homepage": "https://github.com/fantasy525/gulp-imgs-base64#readme"
-=======
-  "_args": [
-    [
-      "gulp-imgs-base64",
-      "E:\\PHPStudy\\WWW\\H5Mobile\\waptd"
-    ]
-  ],
-  "_cnpm_publish_time": 1496490319599,
-  "_from": "gulp-imgs-base64@latest",
-  "_id": "gulp-imgs-base64@0.0.4",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/gulp-imgs-base64",
-  "_nodeVersion": "6.10.3",
-  "_npmOperationalInternal": {
-    "host": "s3://npm-registry-packages",
-    "tmp": "tmp/gulp-imgs-base64-0.0.4.tgz_1496490319526_0.7081531402654946"
-  },
-  "_npmUser": {
-    "email": "1056726491@qq.com",
-    "name": "fantasy525"
-  },
-  "_npmVersion": "3.10.10",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "gulp-imgs-base64",
-    "raw": "gulp-imgs-base64",
-    "rawSpec": "",
-    "scope": null,
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#DEV:/"
-  ],
-  "_resolved": "https://registry.npm.taobao.org/gulp-imgs-base64/download/gulp-imgs-base64-0.0.4.tgz",
-  "_shasum": "846af9ca1c5e8ce7bf34fb6acf12a046a6e9f8c4",
-  "_shrinkwrap": null,
-  "_spec": "gulp-imgs-base64",
-  "_where": "E:\\PHPStudy\\WWW\\H5Mobile\\waptd",
-  "author": {
-    "name": "fantasy525"
-  },
-  "dependencies": {},
-  "description": "I made some changes to gulp-all-base64,It can convert pictures of a specific size to Base64",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "noattachment": false,
-    "shasum": "846af9ca1c5e8ce7bf34fb6acf12a046a6e9f8c4",
-    "size": 5496,
-    "tarball": "http://registry.npm.taobao.org/gulp-imgs-base64/download/gulp-imgs-base64-0.0.4.tgz"
-  },
-  "license": "MIT",
-  "main": "index.js",
-  "maintainers": [
-    {
-      "email": "1056726491@qq.com",
-      "name": "fantasy525"
-    }
-  ],
-  "name": "gulp-imgs-base64",
-  "optionalDependencies": {},
-  "publish_time": 1496490319599,
-  "readme": "ERROR: No README data found!",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "0.0.4"
->>>>>>> af3c000d568c0b07b2efbb70cb6e01bb5c583b74
 }
