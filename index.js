@@ -7,8 +7,6 @@ function toBase64(options) {
     var maxImageSize=options.maxImageSize||2*1024;
     var publicPath=options.publicPath||' ';
     var rule='src[\\s]*=[\\s]*[\\\"|\\\'][\\s]*'+'([\\s]*'+publicPath+')*'+'(\\w+\\/)*\\w+\\.(png|jpg)[\\s]*[\\\"|\\\']';
-    var baseDir = opts.baseDir || '.';
-    var maxImageSize=options.maxImageSize||2*1024;
     return through.obj(function (file, enc, cb) {
         if (file.isNull()) {
             this.push(file);
