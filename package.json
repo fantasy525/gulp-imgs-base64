@@ -1,0 +1,24 @@
+{
+  "name": "gulp-imgs-base64",
+  "version": "0.1.1",
+  "description": "A plugin for encoding pages img  to base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "keywords": [
+   "gulp",
+   "img",
+   "base64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fantasy525/gulp-imgs-base64"
+  },
+  "author": "fantasy525",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fantasy525/gulp-imgs-base64/issues"
+  },
+  "homepage": "https://github.com/fantasy525/gulp-imgs-base64#readme"
+}
